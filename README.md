@@ -20,4 +20,4 @@ Eventually I was able to make the app work.
 I learned how to use APIs and web services. I am now confident that I can easily work with APIs and develop cool apps in long run. This is just a start!
 
 ## What's next for RhymeIt
-Need to work on extra features like adding voice support, gaining addition insights about the words, etc!
+Need to work on extra features like adding voice support, gaining additional insights about the words, etc!
